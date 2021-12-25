@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screeps", "Screeps\Screeps.csproj", "{3A74E88A-C754-4917-B5C5-E25B54F13547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreepsApi", "ScreepsApi\ScreepsApi.csproj", "{417DD5AB-7CE8-4346-8715-B7106C6FDFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A74E88A-C754-4917-B5C5-E25B54F13547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A74E88A-C754-4917-B5C5-E25B54F13547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A74E88A-C754-4917-B5C5-E25B54F13547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A74E88A-C754-4917-B5C5-E25B54F13547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{417DD5AB-7CE8-4346-8715-B7106C6FDFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417DD5AB-7CE8-4346-8715-B7106C6FDFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417DD5AB-7CE8-4346-8715-B7106C6FDFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417DD5AB-7CE8-4346-8715-B7106C6FDFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F89AA246-305F-444A-9077-AE9CA2256CB7}
+	EndGlobalSection
+EndGlobal

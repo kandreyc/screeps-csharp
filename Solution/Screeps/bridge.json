@@ -1,0 +1,34 @@
+{
+  "output": "$(OutDir)/bridge/",
+  "outputFormatting": "Minified",
+  "console": {
+    "enabled": false
+  },
+  "sourceMap": {
+    "enabled": false
+  },
+  "reflection": {
+    "disabled": true
+  },
+  "generateTypeScript": false,
+  "cleanOutputFolderBeforeBuild": true,
+  "report": {
+    "enabled": false
+  },
+  "rules": {
+    "anonymousType": "Plain",
+    "arrayIndex": "Managed",
+    "autoProperty": "Plain",
+    "boxing": "Managed",
+    "externalCast": "Plain",
+    "inlineComment": "Plain",
+    "integer": "Managed",
+    "lambda": "Plain"
+  },
+  "html": {
+    "disabled": true
+  },
+  "logging": {
+    "level": "None"
+  }
+}
